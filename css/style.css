@@ -769,7 +769,6 @@ h1, h2, h3, h4, h5, h6 {
 .item-plan__header {
   padding-top: 78px;
   padding-bottom: 28px;
-  padding-right: 30px;
 }
 @media (max-width: 991.98px) {
   .item-plan__header {
