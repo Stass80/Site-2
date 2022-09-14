@@ -819,7 +819,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 9px;
   left: 0;
   top: 10px;
-  background: url(/img/Plan/ico/ico.svg) 0 0 no-repeat;
+  background: url(../img/Plan/ico/ico.svg) 0 0 no-repeat;
 }
 .item-plan__footer {
   padding-bottom: 50px;
